@@ -4,6 +4,6 @@ if(c>='a' and c<='z'):
   if(c in li):
     print("Vowel")
   else:
-    print("Consonants")
+    print("Consonant")
 else:
   print("invalid")
