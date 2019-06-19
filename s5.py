@@ -10,3 +10,6 @@ if(num[0]>0 and num[1]> and num[2]>0):
     print(num[1])
   else:
     print(num[2])
+else:
+  print("-1")
+  
