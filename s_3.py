@@ -6,4 +6,4 @@ if(c>='a' and c<='z'):
   else:
     print("Consonant")
 else:
-  print("invalid")
+    print("invalid")
